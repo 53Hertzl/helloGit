@@ -8,5 +8,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("哈哈啊哈哈哈哈");
+        System.out.println("更新一");
     }
 }
